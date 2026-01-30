@@ -3,14 +3,14 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://mustafid1703.github.io/Tugas-03-React-Js--Style-conditional-collection-component",
+  "homepage": "https://github.com/Mustafid1703/Tugas-05-React-JS---eventHendler.git",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
     "lint": "eslint .",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist https://github.com/Mustafid1703/Tugas-03-React-JS---Style-conditional-collection-component.git"
+    "deploy": "gh-pages -d  dist -r https://github.com/Mustafid1703/Tugas-05-React-JS---eventHendler.git"
   },
   "dependencies": {
     "react": "^19.2.0",

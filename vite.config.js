@@ -5,5 +5,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/Tugas-03-React-Js--Style-conditional-collection-component/',
+  base: '/Tugas-05-React-JS---eventHendler/',
 })
