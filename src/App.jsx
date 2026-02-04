@@ -1,6 +1,7 @@
 import Layout from "./components/Layout";
 import AlertButton from "./components/AlertButton";
 import NameList from "./components/NameList";
+import StudentApp from "./components/Student/StudentApp";
 
 function App() {
   return (
@@ -13,7 +14,9 @@ function App() {
         message="Ini adalah pesan dari button"
       />
       <NameList />
+      <StudentApp />
     </Layout>
+    
     
   );
 }
