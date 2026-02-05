@@ -79,7 +79,7 @@
 
     return (
       <div className="container">
-        <h1>data santri</h1>
+        <h1>Note APP</h1>
 
         
         <div className="form">
